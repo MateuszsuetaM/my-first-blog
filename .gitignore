@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+django-user
+myenv
+baza_matiego
+.DS_store
